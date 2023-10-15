@@ -1,0 +1,14 @@
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.exe
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.deps.json
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.runtimeconfig.json
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.runtimeconfig.dev.json
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.dll
+C:\Users\rinaa\source\repos\Practika7\Practika7\bin\Debug\netcoreapp3.1\Practika7.pdb
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.csproj.AssemblyReference.cache
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.AssemblyInfoInputs.cache
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.AssemblyInfo.cs
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.csproj.CoreCompileInputs.cache
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.dll
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.pdb
+C:\Users\rinaa\source\repos\Practika7\Practika7\obj\Debug\netcoreapp3.1\Practika7.genruntimeconfig.cache
