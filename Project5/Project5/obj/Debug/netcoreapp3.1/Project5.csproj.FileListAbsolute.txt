@@ -1,0 +1,14 @@
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.exe
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.deps.json
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.runtimeconfig.json
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.runtimeconfig.dev.json
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.dll
+C:\Users\rinaa\source\repos\Project5\Project5\bin\Debug\netcoreapp3.1\Project5.pdb
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.csproj.AssemblyReference.cache
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.AssemblyInfoInputs.cache
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.AssemblyInfo.cs
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.csproj.CoreCompileInputs.cache
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.dll
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.pdb
+C:\Users\rinaa\source\repos\Project5\Project5\obj\Debug\netcoreapp3.1\Project5.genruntimeconfig.cache
